@@ -55,6 +55,10 @@ This project explores Uber ride request data to uncover **supply-demand mismatch
 
 ---
 
+## 📎 View Live on Kaggle
+
+🔗 [Kaggle Notebook Link](https://www.kaggle.com/code/singhabhay1112/uber-supply-demand-gap-analysis)
+
 ## 💻 How to Run the Project Locally
 
 ### Step 1: Clone the Repository
